@@ -1,0 +1,13 @@
+{
+    "host": [
+        "10.66.10.30",
+        "10.66.10.31",
+        "10.66.10.32",
+        "10.66.10.33"
+    ],
+    "package": "top.yogiczy.yykm.tv",
+    "default": true,
+    "interval": 5,
+    "test": 2,
+    "wait": 5
+}
